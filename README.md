@@ -4,6 +4,7 @@ My First Project. This is a program meant to allow a user to manage the aspects 
 Requirements:
 1) Latest Version of XAMPP running MYSQL and Apache on port 5511. The config files for both MYSQL and Apache are in the project folder under 'xammp config'
 2) 'school_management' database, the data of which is kept in 'mysql' in the project folder.
+3) Latest versions of java and python.
 
 
 Functionality
